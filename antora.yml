@@ -1,0 +1,5 @@
+name: central
+title: central
+version: master
+nav:
+- modules/ROOT/nav.adoc
